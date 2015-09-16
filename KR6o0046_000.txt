@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛針論
+#+DATE: 2015-08-30 20:59:46.585940
+#+PROPERTY: JUAN 0
