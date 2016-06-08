@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:46.409035
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:51
 #+TITLE: 金剛針論
 #+PROPERTY: CBETA_ID T32n1642
 #+PROPERTY: ID KR6o0046
